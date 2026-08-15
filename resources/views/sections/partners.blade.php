@@ -1,6 +1,6 @@
 <section class="partners-section">
     <div class="container">
-        <p class="partners-intro">Trusted by Engineering Leaders & High-Growth Companies Worldwide</p>
+        <p class="partners-intro">Trusted by Engineering Leaders & High-Growth Companies e</p>
         <div class="partners-grid">
             @foreach($partners ?? config('company.partners', []) as $partner)
             <div class="partner-card">
